@@ -1,1 +1,19 @@
+Sentimental Analysis of Snap Chat
+Overview
+
+This project mainly works on the sentiment analysis for SNAPCHAT, This SNAPCHAT is a social network service provider available around the globe. This usually comes with an application available on all the smart phones on all the operating systems. This also works on the TFIDF scores i.e., term frequency–inverse document frequency. Now my project deals with the positive and negative feelings of customers using their reviews either posted on Blogs or Youtube. This mainly takes some reviews and trains the data according to the positive and negative analysis, after that automatically it will apply the reviews on test data and classifies the positive and negative reviews from the customers.
+
+Sentiment analysis
+
+Sentiment analysis in other words defined as opinion mining. In essence, it is the process of determining the emotional tone behind a series of words, used to gain an understanding of the attitudes, opinions and emotions expressed within an online mention. This sentimental analysis is usually used by the bussiness people or any web service providers to know the customers or people opinion on their work, a feedback from customers. This analysis will give us the positive or negative reviews on the customer opinions. For example we can consider Obama administration used the sentimental analysis to review the people opinion on the coming elections.
+
+DATASET
+
+SNAPCHAT sentiment analysis requires some data or reviews for the customers which contains both positive and negative reviews. For the data we will develop the BLOG API or YOUTUBE API where we can pull the reviews of SNAPCHAT based on the customer feelings about a post. We also try to use some tools like Outwit, web scrapers which will help us in pulling the comments based n our needs. We also have some other source of data from one of the team members who worked on Text analysis from other company. We already contacted with the company people about our needs regarding the project and the data.
+
+Project Management
+
+Our project consists of  Rama Krishan Reddy Yalla(0488),Ramesh Gundelli(0577),Vikram Reddy Lakkireddy(0499), Sai Pratap Reddy Palagani(0509).
+
+
 
